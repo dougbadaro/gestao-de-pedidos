@@ -26,3 +26,17 @@ G:\thisisbadaro\IFNMG\Programação Visual\atividadeAvaliativa\AtividadeAvaliati
 G:\thisisbadaro\IFNMG\Programação Visual\atividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowPedidos.resources
 G:\thisisbadaro\IFNMG\Programação Visual\atividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowProdutos.resources
 G:\thisisbadaro\IFNMG\Programação Visual\atividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowCadastro.resources
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe.config
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.pdb
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.AssemblyReference.cache
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.SuggestedBindingRedirects.cache
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowMain.resources
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowPedidos.resources
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowProdutos.resources
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowCadastro.resources
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.Properties.Resources.resources
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.GenerateResource.cache
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.exe
+D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.pdb

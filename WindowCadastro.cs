@@ -105,6 +105,12 @@ namespace AtividadeAvaliativa
             lblTotal.Text = $"R$ --";
         }
 
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+
+            this.Close();
+        }
+
         //private void txtCodigo_KeyPress(object sender, KeyPressEventArgs e)
         //{
         //    if (!Char.IsDigit(e.KeyChar) && e.KeyChar != 8)
