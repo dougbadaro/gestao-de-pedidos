@@ -68,6 +68,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(241, 363);
             this.Controls.Add(this.pnlPrincipal);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "WindowPedidos";
             this.Text = "Pedidos";
             this.pnlPrincipal.ResumeLayout(false);
