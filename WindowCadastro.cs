@@ -58,7 +58,7 @@ namespace AtividadeAvaliativa
 
             lstItens.Items.Add(item);
 
-            lblTotal.Text = $"R${pedidoaux.CalcularTotal().ToString().Replace('.', ',')}";
+            lblTotal.Text = $"Total: R${pedidoaux.CalcularTotal().ToString().Replace('.', ',')}";
         }
 
         private void txtNome_TextChanged(object sender, EventArgs e)
@@ -91,18 +91,22 @@ namespace AtividadeAvaliativa
 
         private void btnSalvar_Click(object sender, EventArgs e)
         {
-            Pedido pedido = new Pedido();
-            foreach (Item item in pedidoaux.Items)
+            if (lstItens.Items.Count > 0)
             {
 
-                pedido.AdicionarItem(item);
+                Pedido pedido = new Pedido();
+                foreach (Item item in pedidoaux.Items)
+                {
+
+                    pedido.AdicionarItem(item);
+                }
+
+                BancoDadosSimulado.Pedidos.Add(pedido);
+
+                pedidoaux.Items.Clear();
+                lstItens.Items.Clear();
+                lblTotal.Text = $"Total: R$ --";
             }
-
-            BancoDadosSimulado.Pedidos.Add(pedido);
-
-            pedidoaux.Items.Clear();
-            lstItens.Items.Clear();
-            lblTotal.Text = $"R$ --";
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
