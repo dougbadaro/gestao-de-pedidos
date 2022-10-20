@@ -58,6 +58,12 @@ namespace AtividadeAvaliativa
 
             lstItens.Items.Add(item);
 
+
+            txtCodigo.Clear();
+            txtNome.Clear();
+            nudQuantidade.Value = 1;
+            lstPesquisa.DataSource = null;
+
             lblTotal.Text = $"Total: R${pedidoaux.CalcularTotal().ToString().Replace('.', ',')}";
         }
 

@@ -40,3 +40,17 @@ D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\Ativida
 D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
 D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.exe
 D:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.pdb
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe.config
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.pdb
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.AssemblyReference.cache
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.SuggestedBindingRedirects.cache
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowMain.resources
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowPedidos.resources
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowProdutos.resources
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.WindowCadastro.resources
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.Properties.Resources.resources
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.GenerateResource.cache
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.exe
+G:\thisisbadaro\IFNMG\Programação Visual\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.pdb
